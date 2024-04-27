@@ -1,0 +1,8 @@
+
+
+https://docs.magnolia-cms.com/product-docs/6.2/getting-started-with-magnolia/installing-magnolia/installing-magnolia-through-npm-cli/
+
+
+----
+sudo npm install @magnolia/cli -g
+----
